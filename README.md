@@ -1,16 +1,21 @@
-## Hi there 👋
+# ? Привет, я Назар!
 
-<!--
-**1nazar1l/1nazar1l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ?‍? О себе
+Senior Backend Developer с 5-летним опытом разработки высоконагруженных систем.
+Специализируюсь на Python и микросервисной архитектуре.
 
-Here are some ideas to get you started:
+## ? Текущие проекты
+– **Платформа аналитики данных** — разрабатываю масштабируемое решение для анализа больших данных с использованием Python и Apache Spark.
+– **API Gateway Service** — создаю централизованный шлюз для микросервисной архитектуры на FastAPI.
+– **Data Processing Library** — участвую в разработке open-source-библиотеки для эффективной обработки и валидации данных.
+– **Tech Blog** — веду технический блог о бэкенд-разработке и DevOps-практиках.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ? Технический стек
+- Python, Django
+- Mysql, Sqlite
+- Html, Css, Js
+- Базовые знания Github
+
+## ? Контакты
+- Email: nazarvusik77@gmail.com
+- LinkedIn: https://www.linkedin.com/in/nazar-vusik-310b24413/
