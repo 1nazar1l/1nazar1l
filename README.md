@@ -5,10 +5,9 @@ Junior Python Developer with hands-on experience in Django web development.
 4th-year Software Engineering student at Minsk College of Entrepreneurship. 
 Completed the Devman Python course.
 
-- 🔭 Currently working on: **MoviesSite** — a movie & TV series catalog
-- 🌱 Learning: **REST APIs, PostgreSQL, Docker**
-- 🎯 Goal: Land an internship as a Python/Django developer
-- 📍 Location: Minsk, Belarus (open to on-site or remote)
+- Learning: **REST APIs, PostgreSQL, Docker**
+- Goal: Land an internship as a Python/Django developer
+- Location: Minsk, Belarus (open to on-site or remote)
 
 ## Projects
 
